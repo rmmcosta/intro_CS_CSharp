@@ -1,0 +1,7 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ClassesAndStructs\ClassesAndStructs\bin\Debug\ClassesAndStructs.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ClassesAndStructs\ClassesAndStructs\bin\Debug\ClassesAndStructs.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ClassesAndStructs\ClassesAndStructs\bin\Debug\ClassesAndStructs.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ClassesAndStructs\ClassesAndStructs\obj\Debug\ClassesAndStructs.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ClassesAndStructs\ClassesAndStructs\obj\Debug\ClassesAndStructs.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ClassesAndStructs\ClassesAndStructs\obj\Debug\ClassesAndStructs.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ClassesAndStructs\ClassesAndStructs\obj\Debug\ClassesAndStructs.pdb

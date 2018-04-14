@@ -1,0 +1,7 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ArraySort\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ArraySort\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ArraySort\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ArraySort\ArraySort\obj\Debug\ArraySort.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ArraySort\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\ArraySort\ArraySort\obj\Debug\ArraySort.pdb

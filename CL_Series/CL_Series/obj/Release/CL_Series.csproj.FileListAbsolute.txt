@@ -1,0 +1,5 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_Series\CL_Series\bin\Release\CL_Series.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_Series\CL_Series\bin\Release\CL_Series.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_Series\CL_Series\obj\Release\CL_Series.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_Series\CL_Series\obj\Release\CL_Series.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_Series\CL_Series\obj\Release\CL_Series.pdb

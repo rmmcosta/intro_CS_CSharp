@@ -1,0 +1,10 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\bin\Debug\TestXmlTransform.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\bin\Debug\TestXmlTransform.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\bin\Debug\TestXmlTransform.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\obj\Debug\TestXmlTransform.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\obj\Debug\TestXmlTransform.Properties.Resources.resources
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\obj\Debug\TestXmlTransform.csproj.GenerateResource.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\obj\Debug\TestXmlTransform.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\obj\Debug\TestXmlTransform.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\obj\Debug\TestXmlTransform.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\TestXmlTransform\TestXmlTransform\obj\Debug\TestXmlTransform.MainForm.resources

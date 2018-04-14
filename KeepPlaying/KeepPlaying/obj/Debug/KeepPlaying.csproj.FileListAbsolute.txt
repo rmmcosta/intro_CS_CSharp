@@ -1,0 +1,7 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\KeepPlaying\KeepPlaying\bin\Debug\KeepPlaying.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\KeepPlaying\KeepPlaying\bin\Debug\KeepPlaying.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\KeepPlaying\KeepPlaying\bin\Debug\KeepPlaying.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\KeepPlaying\KeepPlaying\obj\Debug\KeepPlaying.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\KeepPlaying\KeepPlaying\obj\Debug\KeepPlaying.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\KeepPlaying\KeepPlaying\obj\Debug\KeepPlaying.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\KeepPlaying\KeepPlaying\obj\Debug\KeepPlaying.pdb

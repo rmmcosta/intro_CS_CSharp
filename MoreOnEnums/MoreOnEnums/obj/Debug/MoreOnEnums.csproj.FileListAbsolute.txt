@@ -1,0 +1,7 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\MoreOnEnums\MoreOnEnums\obj\Debug\MoreOnEnums.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\MoreOnEnums\MoreOnEnums\obj\Debug\MoreOnEnums.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\MoreOnEnums\MoreOnEnums\bin\Debug\MoreOnEnums.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\MoreOnEnums\MoreOnEnums\bin\Debug\MoreOnEnums.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\MoreOnEnums\MoreOnEnums\bin\Debug\MoreOnEnums.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\MoreOnEnums\MoreOnEnums\obj\Debug\MoreOnEnums.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\MoreOnEnums\MoreOnEnums\obj\Debug\MoreOnEnums.pdb

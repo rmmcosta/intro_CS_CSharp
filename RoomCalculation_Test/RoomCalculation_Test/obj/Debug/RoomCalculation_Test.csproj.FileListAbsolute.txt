@@ -1,0 +1,10 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\bin\Debug\RoomCalculation_Test.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\bin\Debug\RoomCalculation_Test.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\bin\Debug\RoomCalculation_Test.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\bin\Debug\CL_RoomCalculation.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\bin\Debug\CL_RoomCalculation.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\obj\Debug\RoomCalculation_Test.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\obj\Debug\RoomCalculation_Test.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\obj\Debug\RoomCalculation_Test.csproj.CopyComplete
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\obj\Debug\RoomCalculation_Test.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation_Test\RoomCalculation_Test\obj\Debug\RoomCalculation_Test.pdb

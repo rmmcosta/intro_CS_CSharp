@@ -1,0 +1,10 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\bin\Debug\Symple_TypeTest.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\bin\Debug\Symple_TypeTest.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\bin\Debug\Symple_TypeTest.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\bin\Debug\Simple_Type.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\bin\Debug\Simple_Type.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\obj\Debug\Symple_TypeTest.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\obj\Debug\Symple_TypeTest.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\obj\Debug\Symple_TypeTest.csproj.CopyComplete
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\obj\Debug\Symple_TypeTest.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Symple_TypeTest\Symple_TypeTest\obj\Debug\Symple_TypeTest.pdb

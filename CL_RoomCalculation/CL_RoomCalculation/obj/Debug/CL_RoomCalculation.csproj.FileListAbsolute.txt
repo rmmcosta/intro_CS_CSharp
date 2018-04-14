@@ -1,0 +1,6 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_RoomCalculation\CL_RoomCalculation\bin\Debug\CL_RoomCalculation.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_RoomCalculation\CL_RoomCalculation\bin\Debug\CL_RoomCalculation.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_RoomCalculation\CL_RoomCalculation\obj\Debug\CL_RoomCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_RoomCalculation\CL_RoomCalculation\obj\Debug\CL_RoomCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_RoomCalculation\CL_RoomCalculation\obj\Debug\CL_RoomCalculation.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_RoomCalculation\CL_RoomCalculation\obj\Debug\CL_RoomCalculation.pdb

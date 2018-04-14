@@ -1,0 +1,6 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation\RoomCalculation\obj\Debug\RoomCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation\RoomCalculation\bin\Debug\RoomCalculation.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation\RoomCalculation\bin\Debug\RoomCalculation.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation\RoomCalculation\bin\Debug\RoomCalculation.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation\RoomCalculation\obj\Debug\RoomCalculation.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\RoomCalculation\RoomCalculation\obj\Debug\RoomCalculation.pdb

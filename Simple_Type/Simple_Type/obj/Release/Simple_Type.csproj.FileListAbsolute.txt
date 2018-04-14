@@ -1,0 +1,5 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Simple_Type\Simple_Type\bin\Release\Simple_Type.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Simple_Type\Simple_Type\bin\Release\Simple_Type.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Simple_Type\Simple_Type\obj\Release\Simple_Type.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Simple_Type\Simple_Type\obj\Release\Simple_Type.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\Simple_Type\Simple_Type\obj\Release\Simple_Type.pdb

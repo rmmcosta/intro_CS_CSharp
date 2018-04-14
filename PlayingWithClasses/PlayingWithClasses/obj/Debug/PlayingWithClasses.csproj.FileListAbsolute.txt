@@ -1,0 +1,7 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\PlayingWithClasses\PlayingWithClasses\bin\Debug\PlayingWithClasses.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\PlayingWithClasses\PlayingWithClasses\bin\Debug\PlayingWithClasses.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\PlayingWithClasses\PlayingWithClasses\bin\Debug\PlayingWithClasses.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\PlayingWithClasses\PlayingWithClasses\obj\Debug\PlayingWithClasses.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\PlayingWithClasses\PlayingWithClasses\obj\Debug\PlayingWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\PlayingWithClasses\PlayingWithClasses\obj\Debug\PlayingWithClasses.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\PlayingWithClasses\PlayingWithClasses\obj\Debug\PlayingWithClasses.pdb

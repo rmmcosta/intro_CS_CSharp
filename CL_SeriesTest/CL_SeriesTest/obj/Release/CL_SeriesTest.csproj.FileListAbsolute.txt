@@ -1,0 +1,10 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\bin\Release\CL_SeriesTest.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\bin\Release\CL_SeriesTest.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\bin\Release\CL_SeriesTest.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\obj\Release\CL_SeriesTest.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\obj\Release\CL_SeriesTest.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\obj\Release\CL_SeriesTest.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\bin\Release\CL_Series.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\bin\Release\CL_Series.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\obj\Release\CL_SeriesTest.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\CL_SeriesTest\CL_SeriesTest\obj\Release\CL_SeriesTest.csproj.CopyComplete

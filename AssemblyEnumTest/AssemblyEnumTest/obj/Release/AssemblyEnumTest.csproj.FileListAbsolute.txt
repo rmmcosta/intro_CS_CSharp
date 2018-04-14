@@ -1,0 +1,10 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Release\AssemblyEnumTest.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Release\AssemblyEnumTest.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Release\AssemblyEnumTest.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Release\CL_Pets.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Release\CL_Pets.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Release\AssemblyEnumTest.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Release\AssemblyEnumTest.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Release\AssemblyEnumTest.csproj.CopyComplete
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Release\AssemblyEnumTest.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Release\AssemblyEnumTest.pdb

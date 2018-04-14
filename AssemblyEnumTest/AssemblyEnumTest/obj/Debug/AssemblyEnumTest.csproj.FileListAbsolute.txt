@@ -1,0 +1,10 @@
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Debug\AssemblyEnumTest.exe.config
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Debug\AssemblyEnumTest.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Debug\AssemblyEnumTest.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Debug\AssemblyEnumTest.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Debug\AssemblyEnumTest.exe
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Debug\AssemblyEnumTest.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Debug\CL_Pets.dll
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\bin\Debug\CL_Pets.pdb
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Debug\AssemblyEnumTest.csproj.CopyComplete
+C:\Users\Ricardo\myProjects\Introduction to Computer Science in C#\AssemblyEnumTest\AssemblyEnumTest\obj\Debug\AssemblyEnumTest.csprojResolveAssemblyReference.cache
