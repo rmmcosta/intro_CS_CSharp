@@ -65,6 +65,7 @@ namespace TestXmlTransform
 
             // Execute the transformation.
             transform.Transform(reader, writer);
+            fs.Flush();
             fs.Close();
             TimeSpan ts = DateTime.Now - dt;
             MessageBox.Show("File Converted in {0} seg", ts.ToString());
