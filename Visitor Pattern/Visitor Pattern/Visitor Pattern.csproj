@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5FA1887B-9C79-4D32-808A-CA70B86B2B0E}</ProjectGuid>
+    <ProjectGuid>{309F3478-3EE4-4367-9F26-96BE203C2857}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PreProcessorDirectives</RootNamespace>
-    <AssemblyName>PreProcessorDirectives</AssemblyName>
+    <RootNamespace>Visitor_Pattern</RootNamespace>
+    <AssemblyName>Visitor Pattern</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -21,7 +21,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Debug\PreProcessorDirectives.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,9 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassDefine.cs" />
-    <Compile Include="ClassUndefine.cs" />
-    <Compile Include="PrintMessage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
