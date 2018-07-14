@@ -14,6 +14,7 @@ namespace Delegates
         {
             Write(PrintX, PrintY,0);
             Write(PrintX, PrintY, 1);
+            Write(PrintZ, PrintX, 0);
         }
 
         static void Write(Print p1, Print p2, int i)
@@ -32,6 +33,11 @@ namespace Delegates
         static void PrintY()
         {
             Console.WriteLine("Y");
+        }
+
+        static void PrintZ()
+        {
+            Console.WriteLine("Z");
         }
     }
 }
