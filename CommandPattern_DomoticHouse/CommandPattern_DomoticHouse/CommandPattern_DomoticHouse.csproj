@@ -42,11 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Command_TVOff.cs" />
+    <Compile Include="Command_TVOn.cs" />
     <Compile Include="ICommand.cs" />
-    <Compile Include="InvokerRemoteControl.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Invoker_RemoteControl.cs" />
+    <Compile Include="Command_LightOff.cs" />
+    <Compile Include="Command_LightOn.cs" />
+    <Compile Include="Client.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Receiver.cs" />
+    <Compile Include="Receiver_Light.cs" />
+    <Compile Include="Receiver_TV.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
