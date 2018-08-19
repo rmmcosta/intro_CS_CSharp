@@ -26,6 +26,10 @@ namespace CommandPattern_DomoticHouse
             remoteControl.ButtonClick(2, Invoker_RemoteControl.ButtonType.OFF);
             remoteControl.ButtonClick(2, Invoker_RemoteControl.ButtonType.ON);
 
+            Console.WriteLine("Let's undo every thing!");
+
+            remoteControl.Undo();
+
 
         }
 

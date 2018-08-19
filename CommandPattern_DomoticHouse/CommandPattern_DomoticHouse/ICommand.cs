@@ -9,5 +9,6 @@ namespace CommandPattern_DomoticHouse
     interface ICommand
     {
         void Execute();
+        void UnExecute();
     }
 }

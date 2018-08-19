@@ -19,5 +19,10 @@ namespace CommandPattern_DomoticHouse
         {
             tv.Off();
         }
+
+        public void UnExecute()
+        {
+            tv.On();
+        }
     }
 }

@@ -10,6 +10,12 @@ namespace CommandPattern_DomoticHouse
     {
         ICommand[] onCommand = new ICommand[7];
         ICommand[] offCommand = new ICommand[7];
+        List<ICommand> commandsHistory;
+
+        public Invoker_RemoteControl()
+        {
+            commandsHistory = new List<ICommand>();
+        }
 
         public enum ButtonType { ON, OFF };
 
@@ -29,19 +35,35 @@ namespace CommandPattern_DomoticHouse
             {
                 case ButtonType.ON:
                     if (onCommand[position] != null)
+                    {
                         onCommand[position].Execute();
+                        commandsHistory.Add(onCommand[position]);
+                    }
                     else
                         Console.WriteLine("Button not configured yet!");
                     break;
                 case ButtonType.OFF:
                     if (offCommand[position] != null)
+                    {
                         offCommand[position].Execute();
+                        commandsHistory.Add(offCommand[position]);
+                    }
                     else
                         Console.WriteLine("Button not configured yet!");
                     break;
                 default:
                     break;
             }
+        }
+
+        public void Undo()
+        {
+            for(int i = commandsHistory.Count-1; i>=0;  i--)
+            {
+                commandsHistory.ElementAt(i).UnExecute();
+            }
+
+            commandsHistory.Clear();
         }
     }
 }

@@ -19,5 +19,10 @@ namespace CommandPattern_DomoticHouse
         {
             light.Off();
         }
+
+        public void UnExecute()
+        {
+            light.On();
+        }
     }
 }
